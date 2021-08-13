@@ -1,6 +1,6 @@
 region     = "us-east-2"
-access_key = "AKIAXQDAGCX7J7LN366Q"
-secret_key = "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"
+access_key = "xxx"
+secret_key = "xxx"
 #ami_name = "Ubuntu Server 20.04 LTS"
 ami_id = "ami-00399ec92321828f5"
 #ami_key_pair_name = "dunnhumby"
